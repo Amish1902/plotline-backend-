@@ -1,0 +1,20 @@
+billing_system/
+|-- controllers/
+|   |-- userController.js
+|   |-- productController.js
+|   |-- cartController.js
+|   |-- orderController.js
+|-- models/
+|   |-- user.js
+|   |-- product.js
+|   |-- cart.js
+|   |-- order.js
+|-- routes/
+|   |-- userRoutes.js
+|   |-- productRoutes.js
+|   |-- cartRoutes.js
+|   |-- orderRoutes.js
+|-- app.js
+|-- server.js
+|-- package.json
+|-- README.md
