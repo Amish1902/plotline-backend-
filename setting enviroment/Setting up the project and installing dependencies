@@ -1,0 +1,5 @@
+mkdir billing_system
+cd billing_system
+npm init -y
+npm install express body-parser mongoose
+npm install --save-dev jest supertest
